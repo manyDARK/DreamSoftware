@@ -19,7 +19,7 @@ DreamSoftware MC:PE/BE ServerSoftware
 - [x] Shulker Boxes
 more...
 > # Discord Server
-[Discord Server] (https://asd.com) "Coming Soon"
+[Discord Server](https://comingsoon.com/) "Coming Soon"
 (You can also ask for help on discord)
 > # ServerSoftware maker
-:+1: [manyDARK] (https://github.com/manyDARK)
+:+1: @[manyDARK](https://github.com/manyDARK/)
