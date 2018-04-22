@@ -1,7 +1,14 @@
 > # DreamSoftware
 DreamSoftware MC:PE/BE ServerSoftware
-# Features:
- DreamSoftware Configuration File
+# Notice:
+The version of the server software is 1.x, developers are: KenemiL, Official Tap.
+Server software updates every day, every day is a novelty, and if you find a problem, discord or github.
+
+Thank you for choosing DreamSoftware! :+1:
+  DreamSoftware Configuration File
+- [x] Plugin Compatibility for PMMP Plugins
+- [x] Plugin Compatibility for Tesseract & Genisys Plugins
+ * GenisysPro & Tesseract Server resume
  * Server Version: 1.x (beta)
 - [x] Anvil
 - [x] Armor Stand
