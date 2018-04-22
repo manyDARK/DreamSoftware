@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DreamTeamMCPE/DreamSoftware/blob/master/Néíyx.png">
+  <img src="https://github.com/DreamTeamMCPE/DreamSoftware/blob/master/logo.png">
 </p>
 
 > # DreamSoftware
